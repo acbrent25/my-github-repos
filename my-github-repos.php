@@ -15,4 +15,8 @@ Auther URI: https://adamchampagne.com/
  // Load Scripts
  require_once(plugin_dir_path(__FILE__) . '/includes/my-github-repos-scripts.php');
 
+  // Load Class
+  require_once(plugin_dir_path(__FILE__) . '/includes/my-github-repos-class.php');
+
+
 
